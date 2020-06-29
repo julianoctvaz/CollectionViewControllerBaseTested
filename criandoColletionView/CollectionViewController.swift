@@ -12,7 +12,7 @@ private let reuseIdentifier = "Cell"
 
 class CollectionViewController: UICollectionViewController {
     
-    let dataSource : [String] = ["Usa", "Brazil", "Nigeria","Morrocos","India","Japao","Bolivia"]
+    let dataSource : [String] = ["Usa", "Brazil", "Nigeria","Morrocos","India","Japao","Espanha"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
