@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3B24DBE2-D455-4054-926A-4C6C99D1CA56"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A230FDC-7D8B-4B76-8B32-5C51CE68D667"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criandoColletionView/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CollectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8A230FDC-7D8B-4B76-8B32-5C51CE68D667 - 3940b246119d0e55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "criandoColletionView.CollectionViewController.__deallocating_deinit"
+                  moduleName = "criandoColletionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianoctvaz/Projetos/criandoColletionView/criandoColletionView/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8A230FDC-7D8B-4B76-8B32-5C51CE68D667 - 1349905ba7be441a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "criandoColletionView.CollectionViewController.__allocating_init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; criandoColletionView.CollectionViewController"
+                  moduleName = "criandoColletionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianoctvaz/Projetos/criandoColletionView/criandoColletionView/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8A230FDC-7D8B-4B76-8B32-5C51CE68D667 - aba7fcacfd996ed9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "criandoColletionView.CollectionViewController.init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; criandoColletionView.CollectionViewController"
+                  moduleName = "criandoColletionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianoctvaz/Projetos/criandoColletionView/criandoColletionView/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "8A230FDC-7D8B-4B76-8B32-5C51CE68D667 - 895a48c7b2e4ad39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "criandoColletionView.CollectionViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; criandoColletionView.CollectionViewController"
+                  moduleName = "criandoColletionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianoctvaz/Projetos/criandoColletionView/criandoColletionView/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8A230FDC-7D8B-4B76-8B32-5C51CE68D667 - d99a58903a2cf740"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "criandoColletionView.CollectionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; criandoColletionView.CollectionViewController"
+                  moduleName = "criandoColletionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianoctvaz/Projetos/criandoColletionView/criandoColletionView/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  uuid = "8A230FDC-7D8B-4B76-8B32-5C51CE68D667 - 9c26842b79c19b8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "criandoColletionView.CollectionViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;criandoColletionView.CollectionViewController&gt;"
+                  moduleName = "criandoColletionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianoctvaz/Projetos/criandoColletionView/criandoColletionView/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8A230FDC-7D8B-4B76-8B32-5C51CE68D667 - 411caa0f2083e82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "criandoColletionView.CollectionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;criandoColletionView.CollectionViewController&gt;"
+                  moduleName = "criandoColletionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianoctvaz/Projetos/criandoColletionView/criandoColletionView/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
