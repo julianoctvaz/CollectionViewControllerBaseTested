@@ -16,6 +16,9 @@ class CollectionViewCell: UICollectionViewCell {
         countryNameLabel.textColor = .black
     }
 
-
+    @IBAction func tapButton (){
+        
+        print("tocou o butao")
+    }
 
 }
