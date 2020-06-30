@@ -46,6 +46,5 @@ class CollectionViewController: UICollectionViewController {
     }
 
   
-  
 
 }
